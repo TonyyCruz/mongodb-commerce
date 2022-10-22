@@ -1,4 +1,4 @@
-# 🚧 POR SEREM COMANDOS BASICOS, ESTÃO LISTADOS APENAS OS REQUISITOS PEDIDOS 🚧
+# 🚧 POR SEREM SÓ COMANDOS BASICOS, ESTÃO LISTADOS APENAS OS REQUISITOS PEDIDOS 🚧
 
 
 1 - Retorne a quantidade de documentos inseridos na coleção produtos
